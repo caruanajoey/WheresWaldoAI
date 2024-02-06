@@ -5,6 +5,8 @@ Collaborated project coded in python by Giuseppe Caruana and Patrick Wilson<br/>
 
 Data Set forked from <a href="https://github.com/vc1492a/Hey-Waldo" target="_blank" rel="external" hreflang="en" type="text/html"> here </a><br/>
 
-Model is currently under developement using <a href="https://github.com/ultralytics/ultralytics" target="_blank" rel="external" hreflang="en" type="text/html"> YOLOv8
+Model is currently under developement using <a href="https://github.com/ultralytics/ultralytics" target="_blank" rel="external" hreflang="en" type="text/html"> YOLOv8<br/>
+
+Link to the <a href="https://colab.research.google.com/drive/1puWld29mTCLaQFzYTn3E038EYAmvXTN8" target="_blank" rel="external" hreflang="en" type="text/html"> Colab 
 
 
